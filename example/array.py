@@ -1,5 +1,5 @@
 arr = list()
-n = int(input("Введите колличество эллементов массива:"))
+n = 15
 i = 0
 while (i < n):
     tmp = int(input(""))
